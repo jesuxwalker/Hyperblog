@@ -6,4 +6,4 @@ Un blog increíble para el curso de Git y Github de Platzi
 
 Asi que puedo cargar cualquier cosa que necesite o desee cargar dado que esta es una practica sin importancia, mas que un aprendizaje personal
 
-Puedo añadir enlaces al texto que quiera para asi agregar una descripcion mejor y mas profunda **Jesus Palencia** asi lo afirma [este curso que tengo para ti](http://https://www.freecodecamp.org/learn/ "este curso que tengo para ti") no te arrepentiras
+Puedo añadir enlaces al texto que quiera para asi agregar una descripcion mejor y mas profunda **Jesus Palencia** asi lo afirma [este curso que tengo para ti](http://www.freecodecamp.org/learn/ "este curso que tengo para ti") no te arrepentiras
